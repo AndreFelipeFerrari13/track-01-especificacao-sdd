@@ -14,9 +14,9 @@
 > texto corrido — inclusive o exemplo logo abaixo — **não são contados**
 > como fonte declarada.
 
-| # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+| Documentação FastAPI — página principal | https://fastapi.tiangolo.com/ | Pesquisa de módulos em `roadmap.md` |
+| Documentação FastAPI — Testing | https://fastapi.tiangolo.com/tutorial/testing/ | Justificativa de `pytest`, `httpx` e `TestClient` em `roadmap.md` |
+| Documentação Uvicorn — Installation/Deployment | https://uvicorn.dev/installation/ e https://www.uvicorn.org/deployment/ | Justificativa de `uvicorn` em `roadmap.md` |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,9 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
-
-*(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
+| 1 | https://chatgpt.com/share/6ac6f105-4fd8-83e8-997b-a51c4af6bb52 | Consulta e revisão de constitution.md, spec.md, plan.md, roadmap.md, tasks.md e tests.md; orientações sobre regras da prova e commits. |
 
 ## 3. Compromisso
 
@@ -48,7 +46,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Nome André Felipe Ferrari de Azevedo / RA:22120196-2**
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
@@ -56,3 +54,5 @@ ele vindo da minha cabeça, de um site ou de uma IA consultada.
 [^plagio]: Rubrica comum da disciplina: conteúdo de LLM não declarado
     configura plágio e zera a prova — o link público da conversa é o que
     transforma "copiou" em "consultou".
+
+
