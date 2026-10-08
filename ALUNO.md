@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: André Ferrari
+Nome: André Felipe Ferrari de Azevedo
 
-RA: >>> PREENCHER <<<
+RA: >>> 22120196-2 <<<
 
 Conta GitHub: @AndreFelipeFerrari13
 
