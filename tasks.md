@@ -48,3 +48,17 @@
 | G-09 | Existe documentação e teste próprio. |
 | G-10 | Arquivos protegidos não são alterados. |
 
+## 4. Checklist antes do push
+
+| Item | OK esperado |
+|---|---|
+| `constitution.md` | Contém regras operacionais concretas. |
+| `spec.md` | Contém critérios de aceite mensuráveis por UC. |
+| `plan.md` | Contém decisões técnicas com justificativa. |
+| `tests.md` | Contém casos de borda por regra de negócio. |
+| `tasks.md` | Contém pelo menos 3 tarefas decompostas. |
+| `FONTES.md` | Registra uso de IA/consulta ou declara que não houve consulta externa. |
+| Auto-correção | `/auto-correcao` executado ao menos uma vez antes de fechar. |
+
+> [!WARNING]
+> Não colar implementação longa em arquivos `.md`. A prova aceita especificação; implementação nos `.md` pode zerar a entrega.
